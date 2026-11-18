@@ -1,9 +1,9 @@
 {
-  "version": "0.2.0",
-  "build": 3,
+  "version": "1.0.0",
+  "build": 4,
   "minimumOS": "15.0",
-  "previousVersion": "0.1.0",
-  "previousBuild": 1,
+  "previousVersion": "0.2.0",
+  "previousBuild": 3,
   "bundleID": "com.dmmeteo.BananaCursor",
   "feedURL": "https://raw.githubusercontent.com/dmmeteo/BananaCursor/main/updates/appcast.xml",
   "publicKey": "8SLS/2Gi3wYdSD1AAVGwfCATxnmkbrKCR8v2n/5xZS8=",
