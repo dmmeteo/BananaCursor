@@ -1,0 +1,9 @@
+BananaCursor privacy
+
+BananaCursor stores cursor themes and settings locally. It has no telemetry or accounts.
+
+Automatic update checks are on by default. While the app is open, it requests a signed feed from raw.githubusercontent.com at launch and once a day. Turn them off in Settings > Updates; manual checks still work. Updates download from GitHub only after you choose Install and Restart. These HTTPS requests expose normal connection information, such as your IP address, to GitHub. BananaCursor does not send a system profile or theme contents.
+
+Help, releases, and issue-report buttons open GitHub in your browser when clicked. Your browser makes those requests.
+
+Exported .cape files include the theme name, author, and cursor images. Review that metadata before sharing a theme.

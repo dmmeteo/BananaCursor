@@ -1,0 +1,1 @@
+Publish the generated signed `appcast.xml` here only after its release ZIP is public and native acceptance has passed. Preserve the XML bytes; editing a signed feed invalidates it. See [Releasing](../docs/RELEASING.md).
