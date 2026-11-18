@@ -4,15 +4,15 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>BananaCursor</title>
         <item>
-            <title>0.2.0</title>
-            <pubDate>Tue, 17 Nov 2026 23:27:59 +0200</pubDate>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <title>1.0.0</title>
+            <pubDate>Wed, 18 Nov 2026 11:40:23 +0200</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/dmmeteo/BananaCursor/releases/download/v0.2.0/BananaCursor-0.2.0-macos.zip" length="4446136" type="application/octet-stream" sparkle:edSignature="GDR4gQ+IRKQHUBbT80RAJvonPZ5m83pNHaPHWp5fJxljq0iDBL1x41dITRGgWnmh0e4J4aUgAcB3XRiH2Q8OAQ=="></enclosure>
+            <enclosure url="https://github.com/dmmeteo/BananaCursor/releases/download/v1.0.0/BananaCursor-1.0.0-macos.zip" length="4445943" type="application/octet-stream" sparkle:edSignature="nTq6PJ3B0I0ikGTBZ44n1r3dJh3iTM2kmJFbusgBfNF36+j2qPllyU35CSrnAaACcANyiVKsS1/edeTKLIknDw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 2c2LLHguiLsnoYtHIr9KssryxGmR89nTRL9Kp7EFLbr1Ilngz4cveSH/Noa51KRkwFHji6NDrVe/chXZzIAbAw==
+edSignature: jY1I+M63xCPP4iNVJxUcAF/SAGPna1wMbWTolcyQ//8K6AZvs8x/Ptes43pXeKjCKcHrGZZ8HTxvoU+IeofIDA==
 length: 1058
 -->
